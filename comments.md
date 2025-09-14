@@ -16,9 +16,9 @@ A practical guide for writing clean, maintainable, and professional comments in 
 **Large Section Header (`//`): To organize large files.**
 
 ```dart
-// ===========================================================================
+// ========================================
 // SECTION TITLE
-// ===========================================================================
+// ========================================
 ```
 
 **Simple Section Header (`//`): To group related code blocks.**
