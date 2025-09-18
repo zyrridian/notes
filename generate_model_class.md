@@ -4,6 +4,9 @@ You can copy and paste this entire template and simply replace the parts in `[br
 
 -----
 
+  * `[feature_name]` becomes `product`.
+  * `[FeatureName]` becomes `Product`.
+    
 **ROLE:** You are an expert Flutter/Dart developer specializing in clean architecture and data modeling.
 
 **TASK:** Your goal is to create two separate Dart files: one for Data Transfer Objects (DTOs) and one for the corresponding Domain Models, based on the JSON data structure I provide.
