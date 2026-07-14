@@ -2,8 +2,17 @@
 
 ```bash
 npm install -g firebase-tools
+```
+
+```bash
 firebase login
+```
+
+```bash
 dart pub global activate flutterfire_cli
+```
+
+```bash
 flutterfire configure
 ```
 
