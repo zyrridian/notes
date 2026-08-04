@@ -144,3 +144,5 @@ run commands
 ```bash
 sudo systemctl restart cloudflared
 ```
+
+to add new .. click on published application routes in cloudflare zero trust, no additional setup for vps
