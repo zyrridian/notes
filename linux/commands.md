@@ -119,8 +119,10 @@ open port 80/443
 
 ```
 
-```bash
+if no port open
 
+```bash
+ssh -p 443 -R0:localhost:3000 a.pinggy.io
 ```
 
 ```bash
