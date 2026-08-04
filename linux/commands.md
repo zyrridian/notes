@@ -125,6 +125,22 @@ if no port open
 ssh -p 443 -R0:localhost:3000 a.pinggy.io
 ```
 
-```bash
+if cloudflare
 
+connect domain - cloudflare
+
+cloudflare -> zero trust
+
+networks -> tunnels
+
+create a tunnel
+
+cloudflared
+
+run commands
+
+(delete dns record if duplicate)
+
+```bash
+sudo systemctl restart cloudflared
 ```
